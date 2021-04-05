@@ -1,5 +1,4 @@
 public class Engineer extends Student {
-    Engineer[] group2;
 
     public Engineer(String group) {
         super("Группа №2");
