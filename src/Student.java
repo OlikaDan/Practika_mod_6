@@ -40,7 +40,7 @@ public class Student {
     }
 
     public String padej() {
-        String groupPrPadej = group.replace('а', 'е');
+        groupPrPadej = group.replace('а', 'е');
         return groupPrPadej;
     }
 }

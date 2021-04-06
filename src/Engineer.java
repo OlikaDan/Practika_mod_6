@@ -1,7 +1,7 @@
 public class Engineer extends Student {
 
     public Engineer(String group) {
-        super("Группа №2");
+        super(group);
     }
 
     @Override

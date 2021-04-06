@@ -1,7 +1,7 @@
 public class Disigner extends Student {
 
     public Disigner(String group) {
-        super("Группа №1");
+        super(group);
     }
 
     @Override
